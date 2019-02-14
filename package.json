@@ -1,0 +1,26 @@
+{
+    "name": "grandos-themes",
+    "displayName": "Grandos UI Themes",
+    "description": "A selection of ok themese for vscode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grandos",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grandos-color-theme.json"
+            },
+            {
+                "label": "One Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/onedark-color-theme.json"
+            }
+        ]
+    }
+}
