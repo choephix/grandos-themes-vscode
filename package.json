@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/onedark-color-theme.json"
+              "label": "One Dark",
+              "uiTheme": "vs-dark",
+              "path": "./themes/onedark-color-theme.json"
             },
             {
               "label": "Adapta Nokto",
