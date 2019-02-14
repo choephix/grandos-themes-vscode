@@ -1,7 +1,7 @@
 {
     "name": "grandos-themes",
     "displayName": "Grandos UI Themes",
-    "description": "A selection of ok themese for vscode.",
+    "description": "A whole bucket of people's awesome themes. Needs a lot of sorting out.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.31.0"
@@ -12,14 +12,94 @@
     "contributes": {
         "themes": [
             {
-                "label": "Grandos",
-                "uiTheme": "vs-dark",
-                "path": "./themes/grandos-color-theme.json"
-            },
-            {
                 "label": "One Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/onedark-color-theme.json"
+            },
+            {
+              "label": "Adapta Nokto",
+              "uiTheme": "vs-dark",
+              "path": "./themes/adapta-nokto.json"
+            },
+            {
+              "label": "Ambiance",
+              "uiTheme": "vs-dark",
+              "path": "./themes/ambiance.json"
+            },
+            {
+              "label": "Arc Dark",
+              "uiTheme": "vs-dark",
+              "path": "./themes/arc-dark.json"
+            },
+            {
+              "label": "Atom Material Theme",
+              "uiTheme": "vs-dark",
+              "path": "./themes/atom-material-color-theme.json"
+            },
+            {
+              "label": "Cobalt 2",
+              "uiTheme": "vs-dark",
+              "path": "./themes/cobalt2.json"
+            },
+            {
+              "label": "Electron",
+              "uiTheme": "vs-dark",
+              "path": "./themes/electron-color-theme.json"
+            },
+            {
+              "label": "Eva",
+              "uiTheme": "vs-dark",
+              "path": "./themes/eva-dark-bold-color-theme.json"
+            },
+            {
+              "label": "FixTheCode",
+              "uiTheme": "vs-dark",
+              "path": "./themes/fixthecode-color-theme.json"
+            },
+            {
+              "label": "Flat Plat",
+              "uiTheme": "vs-dark",
+              "path": "./themes/flat-plat.json"
+            },
+            {
+              "label": "Halcyon",
+              "uiTheme": "vs-dark",
+              "path": "./themes/halcyon-color-theme.json"
+            },
+            {
+              "label": "One Monokai",
+              "uiTheme": "vs-dark",
+              "path": "./themes/onemonokai-color-theme.json"
+            },
+            {
+              "label": "Palenight",
+              "uiTheme": "vs-dark",
+              "path": "./themes/palenight.json"
+            },
+            {
+              "label": "Sapphire",
+              "uiTheme": "vs-dark",
+              "path": "./themes/sapphire-color-theme.json"
+            },
+            {
+              "label": "Shader Of Purple",
+              "uiTheme": "vs-dark",
+              "path": "./themes/shades-of-purple-color-theme.json"
+            },
+            {
+              "label": "Winter Is Coming",
+              "uiTheme": "vs-dark",
+              "path": "./themes/winteriscoming-dark-color-theme.json"
+            },
+            {
+              "label": "Winter Is Coming (Blue)",
+              "uiTheme": "vs-dark",
+              "path": "./themes/winteriscoming-dark-blue-color-theme.json"
+            },
+            {
+              "label": "Yaru Dark",
+              "uiTheme": "vs-dark",
+              "path": "./themes/yaru-dark.json"
             }
         ]
     }
